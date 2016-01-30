@@ -7,6 +7,9 @@ public class Node : MonoBehaviour {
 
     void Awake()
     {
-        
+        if (StartNode)
+        {
+            gameObject.tag = "StartNode";
+        }
     }
 }
