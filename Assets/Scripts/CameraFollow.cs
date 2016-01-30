@@ -63,9 +63,10 @@ public class CameraFollow : MonoBehaviour
 		targetX = Mathf.Clamp(targetX, minXAndY.x, maxXAndY.x);
 		targetY = Mathf.Clamp(targetY, minXAndY.y, maxXAndY.y);
 
-		// Set the camera's position to the target position with the same z component. Add some smoothness to the camera movement
-        Vector3 delta = playerTransform.position - GetComponent<Camera>().ViewportToWorldPoint(new Vector3(targetX, targetY, transform.position.z));
-        Vector3 destination = transform.position + delta;
-        transform.position = Vector3.SmoothDamp(transform.position, destination, ref velocity, dampTime);
+        // Set the camera's position to the target position with the same z component. Add some smoothness to the camera movement
+        //Vector3 delta = playerTransform.position - GetComponent<Camera>().ViewportToWorldPoint(new Vector3(targetX, targetY, transform.position.z));
+        //Vector3 destination = transform.position + delta;
+        //transform.position = Vector3.SmoothDamp(transform.position, destination, ref velocity, dampTime);
+        transform.position = new Vector3(targetX, targetY, transform.position.z);
     }
 }
