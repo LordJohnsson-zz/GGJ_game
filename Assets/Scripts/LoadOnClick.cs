@@ -4,29 +4,21 @@ using System.Collections;
 using UnityEngine.UI;
 
 public class LoadOnClick : MonoBehaviour {
-
-    public Slider loadingBar;
+    
     public Button startButton;
 
-
-    private AsyncOperation async;
-
-
-    public void ClickStart(int level)
+    public void StartGame()
     {
         startButton.gameObject.SetActive(false);
-        loadingBar.gameObject.SetActive(true);
-        StartCoroutine(LoadLevelWithBar(level));
+        StartCoroutine(FadeOut());
     }
-
-
-    IEnumerator LoadLevelWithBar(int lvl)
+    
+    IEnumerator FadeOut()
     {
-        async = SceneManager.LoadSceneAsync(lvl);
-        while (!async.isDone)
-        {
-            loadingBar.value = async.progress;
-            yield return null;
-        }
+        Animator fadeAnim = GameObject.Find("FadeImage").GetComponent<Animator>();
+        fadeAnim.Play("fadeToBlack");
+        yield return new WaitForSeconds(1);
+        PlayerPrefs.SetString("startPoint", "leftEntrance");
+        SceneManager.LoadScene(1);
     }
 }

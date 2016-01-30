@@ -10,7 +10,6 @@ public class CameraFollow : MonoBehaviour
 	public float ySmooth = 8f;		// How smoothly the camera catches up with it's target movement in the y axis.
 
 	private Transform playerTransform;		// Reference to the player's transform.
-    private Vector3 velocity = Vector3.zero;
 
     void Awake ()
 	{
