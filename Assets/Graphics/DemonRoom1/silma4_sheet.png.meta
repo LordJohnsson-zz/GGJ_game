@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 00dfa0530d952f0409039e53f4ad56ad
+timeCreated: 1454204008
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: silma4_sheet_0
+    21300002: silma4_sheet_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: silma4_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 13
+        width: 310
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147, y: -121.5}
+        - {x: 147, y: 97.5}
+        - {x: 145, y: 108.5}
+        - {x: 143, y: 111.5}
+        - {x: 137, y: 118.5}
+        - {x: 144, y: 130.5}
+        - {x: 142, y: 136.5}
+        - {x: 69, y: 150.5}
+        - {x: -96, y: 150.5}
+        - {x: -112, y: 142.5}
+        - {x: -133, y: 130.5}
+        - {x: -151, y: 115.5}
+        - {x: -154, y: 111.5}
+        - {x: -154, y: 101.5}
+        - {x: -146, y: 56.5}
+        - {x: -150, y: 49.5}
+        - {x: -150, y: 13.5}
+        - {x: -140, y: -26.5}
+        - {x: -155, y: -38.5}
+        - {x: -155, y: -66.5}
+        - {x: -149, y: -81.5}
+        - {x: -133, y: -97.5}
+        - {x: -117, y: -116.5}
+        - {x: -75, y: -135.5}
+        - {x: -48, y: -144.5}
+        - {x: -17, y: -150.5}
+        - {x: 88, y: -150.5}
+        - {x: 132, y: -133.5}
+        - {x: 146, y: -123.5}
+    - name: silma4_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 13
+        width: 310
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: -122.5}
+        - {x: 155, y: 82.5}
+        - {x: 136, y: 87.5}
+        - {x: 111, y: 109.5}
+        - {x: 70, y: 124.5}
+        - {x: -25, y: 131.5}
+        - {x: -45, y: 133.5}
+        - {x: -89, y: 133.5}
+        - {x: -112, y: 114.5}
+        - {x: -133, y: 96.5}
+        - {x: -141, y: 75.5}
+        - {x: -143, y: 58.5}
+        - {x: -155, y: 32.5}
+        - {x: -155, y: -23.5}
+        - {x: -152, y: -35.5}
+        - {x: -137, y: -63.5}
+        - {x: -146, y: -71.5}
+        - {x: -150, y: -76.5}
+        - {x: -152, y: -85.5}
+        - {x: -136, y: -109.5}
+        - {x: -122, y: -111.5}
+        - {x: -119, y: -106.5}
+        - {x: -99, y: -134.5}
+        - {x: -90, y: -144.5}
+        - {x: -60, y: -139.5}
+        - {x: -11, y: -147.5}
+        - {x: 47, y: -147.5}
+        - {x: 75, y: -141.5}
+        - {x: 109, y: -125.5}
+        - {x: 154, y: -123.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

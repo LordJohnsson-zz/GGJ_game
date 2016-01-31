@@ -19,6 +19,6 @@ public class LoadOnClick : MonoBehaviour {
         fadeAnim.Play("fadeToBlack");
         yield return new WaitForSeconds(1);
         PlayerPrefs.SetString("startPoint", "leftEntrance");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("Kitchen");
     }
 }

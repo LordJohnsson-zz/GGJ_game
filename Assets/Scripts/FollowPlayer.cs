@@ -1,22 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class FollowPlayer : MonoBehaviour
 {
 	public Vector3 offset;          // The offset at which the Health Bar follows the player.
-    public GameObject playerObject; 
 	private Transform player;		// Reference to the player.
-
+    Sprite bubble;
 
 	void Awake ()
 	{
-		// Setting up the reference.
-		player = playerObject.transform;
+        // Setting up the reference.
+        player = GameObject.Find("Player").GetComponent<Transform>();
+        bubble = GameObject.Find("bubbleImg").GetComponent<Image>().sprite;
 	}
 
 	void Update ()
 	{
-		// Set the position to the player's position with the offset.
-		transform.position = player.position + offset;
-	}
+        var targetPos = Camera.main.WorldToScreenPoint(player.position + offset);
+        transform.position = targetPos;
+    }
 }

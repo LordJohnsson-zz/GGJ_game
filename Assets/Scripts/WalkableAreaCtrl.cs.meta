@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d4e3a7a324296a84a96fd6e87664a98f
+timeCreated: 1454192346
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - walkIcon: {fileID: 2800000, guid: 7c327f4f94d81ba4a8a7857b1292499f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: d620a028a0c3cce43803daa85bea3752
+timeCreated: 1454199573
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kupla2_0
+    21300002: kupla2_1
+    21300004: kupla2_2
+    21300006: kupla2_3
+    21300008: kupla2_4
+    21300010: kupla2_5
+    21300012: kupla2_6
+    21300014: kupla2_7
+    21300016: kupla2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kupla2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -58.5, y: 54.5}
+        - {x: -58.5, y: -44.5}
+        - {x: -55.5, y: -54.5}
+        - {x: 35.5, y: -54.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 58.5, y: 48.5}
+        - {x: 45.5, y: 54.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

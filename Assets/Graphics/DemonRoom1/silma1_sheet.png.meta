@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 8e5c00cee4e8cda41b9687b1c01a90de
+timeCreated: 1454204326
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: silma1_sheet_0
+    21300002: silma1_sheet_1
+    21300004: silma1_sheet_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: silma1_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 156.5}
+        - {x: -48.5, y: 156.5}
+        - {x: -104.5, y: 127.5}
+        - {x: -107.5, y: 113.5}
+        - {x: -106.5, y: 91.5}
+        - {x: -124.5, y: 54.5}
+        - {x: -126.5, y: 27.5}
+        - {x: -103.5, y: -30.5}
+        - {x: -122.5, y: -56.5}
+        - {x: -155.5, y: -81.5}
+        - {x: -155.5, y: -100.5}
+        - {x: -107.5, y: -105.5}
+        - {x: -41.5, y: -120.5}
+        - {x: -12.5, y: -138.5}
+        - {x: 28.5, y: -154.5}
+        - {x: 54.5, y: -155.5}
+        - {x: 65.5, y: -141.5}
+        - {x: 67.5, y: -135.5}
+        - {x: 61.5, y: -127.5}
+        - {x: 70.5, y: -136.5}
+        - {x: 66.5, y: -143.5}
+        - {x: 68.5, y: -153.5}
+        - {x: 72.5, y: -156.5}
+        - {x: 93.5, y: -156.5}
+        - {x: 155.5, y: -131.5}
+        - {x: 155.5, y: 121.5}
+        - {x: 118.5, y: 135.5}
+      - - {x: -101.5, y: -108.5}
+        - {x: -100.5, y: -111.5}
+        - {x: -94.5, y: -111.5}
+        - {x: -92.5, y: -109.5}
+        - {x: -93.5, y: -106.5}
+        - {x: -99.5, y: -106.5}
+      - - {x: -151.5, y: -97.5}
+        - {x: -152.5, y: -100.5}
+        - {x: -149.5, y: -103.5}
+        - {x: -143.5, y: -103.5}
+        - {x: -141.5, y: -101.5}
+        - {x: -141.5, y: -100.5}
+        - {x: -145.5, y: -97.5}
+    - name: silma1_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 292
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: silma1_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 311
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153.5, y: 112.5}
+        - {x: 151.5, y: 116.5}
+        - {x: 111.5, y: 119.5}
+        - {x: 88.5, y: 116.5}
+        - {x: 64.5, y: 125.5}
+        - {x: 50.5, y: 128.5}
+        - {x: -27.5, y: 128.5}
+        - {x: -47.5, y: 125.5}
+        - {x: -70.5, y: 118.5}
+        - {x: -99.5, y: 94.5}
+        - {x: -113.5, y: 60.5}
+        - {x: -123.5, y: 20.5}
+        - {x: -125.5, y: 0.5}
+        - {x: -110.5, y: -79.5}
+        - {x: -126.5, y: -98.5}
+        - {x: -153.5, y: -102.5}
+        - {x: -155.5, y: -105.5}
+        - {x: -155.5, y: -123.5}
+        - {x: -138.5, y: -131.5}
+        - {x: -111.5, y: -128.5}
+        - {x: -92.5, y: -141.5}
+        - {x: -69.5, y: -143.5}
+        - {x: -3.5, y: -143.5}
+        - {x: 17.5, y: -142.5}
+        - {x: 83.5, y: -139.5}
+        - {x: 147.5, y: -142.5}
+        - {x: 153.5, y: -139.5}
+      - - {x: -130.5, y: 141.5}
+        - {x: -131.5, y: 139.5}
+        - {x: -131.5, y: 136.5}
+        - {x: -125.5, y: 133.5}
+        - {x: -122.5, y: 134.5}
+        - {x: -122.5, y: 137.5}
+        - {x: -127.5, y: 141.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

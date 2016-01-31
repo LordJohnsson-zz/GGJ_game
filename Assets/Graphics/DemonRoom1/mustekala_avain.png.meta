@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 0955fd1256b99a748ac0f6c9926c3066
+timeCreated: 1454204866
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mustekala_avain_0
+    21300002: mustekala_avain_1
+    21300004: mustekala_avain_2
+    21300006: mustekala_avain_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mustekala_avain_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 1100
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 222.70143, y: -81.5}
+        - {x: 121.70143, y: -9.5}
+        - {x: 13.701431, y: 79.5}
+        - {x: -55.29857, y: 61.5}
+        - {x: -107.29857, y: -4.5}
+        - {x: -128.29857, y: 69.5}
+        - {x: -140.29857, y: 114.5}
+        - {x: -147.29857, y: 121.5}
+        - {x: -203.29857, y: 121.5}
+        - {x: -232.29857, y: 107.5}
+        - {x: -227.29857, y: 74.5}
+        - {x: -241.29857, y: 6.5}
+        - {x: -241.29857, y: -76.5}
+        - {x: 17.701431, y: -128.5}
+        - {x: 64.70143, y: -133.5}
+        - {x: 211.70143, y: -133.5}
+        - {x: 242.70143, y: -119.5}
+        - {x: 242.70143, y: -101.5}
+        - {x: 237.70143, y: -93.5}
+    - name: mustekala_avain_1
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 0
+        width: 1100
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 210.95288, y: -84.5}
+        - {x: 121.95288, y: -14.5}
+        - {x: 46.95288, y: 108.5}
+        - {x: -15.047119, y: 133.5}
+        - {x: -204.04712, y: 133.5}
+        - {x: -205.04712, y: 132.5}
+        - {x: -217.04712, y: 115.5}
+        - {x: -212.04712, y: 59.5}
+        - {x: -186.04712, y: 58.5}
+        - {x: -183.04712, y: 66.5}
+        - {x: -183.04712, y: 74.5}
+        - {x: -181.04712, y: 51.5}
+        - {x: -193.04712, y: 24.5}
+        - {x: -192.04712, y: 4.5}
+        - {x: -177.04712, y: -31.5}
+        - {x: -171.04712, y: -36.5}
+        - {x: -168.04712, y: -35.5}
+        - {x: -168.04712, y: -32.5}
+        - {x: -170.04712, y: -27.5}
+        - {x: -172.04712, y: -25.5}
+        - {x: -168.04712, y: -29.5}
+        - {x: -165.04712, y: -41.5}
+        - {x: -224.04712, y: -8.5}
+        - {x: -241.04712, y: -32.5}
+        - {x: -241.04712, y: -133.5}
+        - {x: 235.95288, y: -133.5}
+        - {x: 242.95288, y: -119.5}
+        - {x: 242.95288, y: -99.5}
+        - {x: 232.95288, y: -94.5}
+    - name: mustekala_avain_2
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 0
+        width: 1100
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.94995, y: 42.5}
+        - {x: 9.949951, y: 65.5}
+        - {x: -45.05005, y: 53.5}
+        - {x: -103.05005, y: 9.5}
+        - {x: -123.05005, y: 133.5}
+        - {x: -194.05005, y: 133.5}
+        - {x: -211.05005, y: 127.5}
+        - {x: -217.05005, y: 98.5}
+        - {x: -229.05005, y: 6.5}
+        - {x: -241.05005, y: -29.5}
+        - {x: -241.05005, y: -81.5}
+        - {x: -94.05005, y: -105.5}
+        - {x: 10.949951, y: -130.5}
+        - {x: 36.94995, y: -133.5}
+        - {x: 226.94995, y: -133.5}
+        - {x: 241.94995, y: -119.5}
+        - {x: 241.94995, y: -72.5}
+        - {x: 91.94995, y: 7.5}
+      - - {x: -176.05005, y: -29.5}
+        - {x: -171.05005, y: -36.5}
+        - {x: -168.05005, y: -34.5}
+        - {x: -169.05005, y: -29.5}
+        - {x: -173.05005, y: -25.5}
+        - {x: -176.05005, y: -26.5}
+    - name: mustekala_avain_3
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 0
+        width: 1100
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5686, y: 0.5}
+        - {x: 47.568604, y: 32.5}
+        - {x: 17.568604, y: 61.5}
+        - {x: -33.431396, y: 55.5}
+        - {x: -52.431396, y: 38.5}
+        - {x: -123.4314, y: 133.5}
+        - {x: -209.4314, y: 133.5}
+        - {x: -214.4314, y: 131.5}
+        - {x: -210.4314, y: 59.5}
+        - {x: -185.4314, y: 56.5}
+        - {x: -181.4314, y: 64.5}
+        - {x: -177.4314, y: 100.5}
+        - {x: -158.4314, y: 83.5}
+        - {x: -185.4314, y: 48.5}
+        - {x: -194.4314, y: 1.5}
+        - {x: -179.4314, y: -23.5}
+        - {x: -175.4314, y: -26.5}
+        - {x: -152.4314, y: -37.5}
+        - {x: -189.4314, y: -27.5}
+        - {x: -226.4314, y: -21.5}
+        - {x: -240.4314, y: -32.5}
+        - {x: -240.4314, y: -65.5}
+        - {x: -235.4314, y: -80.5}
+        - {x: -118.4314, y: -98.5}
+        - {x: -87.4314, y: -93.5}
+        - {x: 7.5686035, y: -118.5}
+        - {x: 35.568604, y: -123.5}
+        - {x: 50.568604, y: -105.5}
+        - {x: 48.568604, y: -91.5}
+        - {x: 108.5686, y: -133.5}
+        - {x: 218.5686, y: -133.5}
+        - {x: 241.5686, y: -128.5}
+        - {x: 241.5686, y: -85.5}
+        - {x: 111.5686, y: 1.5}
+      - - {x: -173.4314, y: -34.5}
+        - {x: -169.4314, y: -37.5}
+        - {x: -166.4314, y: -35.5}
+        - {x: -170.4314, y: -26.5}
+        - {x: -173.4314, y: -26.5}
+        - {x: -175.4314, y: -28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

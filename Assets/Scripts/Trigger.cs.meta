@@ -1,10 +1,14 @@
 fileFormatVersion: 2
 guid: 74df3f81f6cbea3499ba1688553fd8ee
-timeCreated: 1454096405
+timeCreated: 1454191668
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Required: {instanceID: 0}
+  - interactIcon: {fileID: 21300000, guid: 6652167866c61fe4da7b7b522b9ef65a, type: 3}
+  - walkToIcon: {fileID: 21300000, guid: 7c327f4f94d81ba4a8a7857b1292499f, type: 3}
+  - sceneChangeIcon: {fileID: 21300000, guid: a0aa7218b5e83894b80dc8c14ccc4109, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -8,4 +8,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu.unity
   - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+  - enabled: 1
+    path: Assets/Scenes/Corridor.unity
+  - enabled: 1
+    path: Assets/Scenes/LilithsRoom1.unity
+  - enabled: 1
+    path: Assets/Scenes/LilithsRoom2.unity
+  - enabled: 1
+    path: Assets/Scenes/ParentsRoom.unity
+  - enabled: 1
+    path: Assets/Scenes/Attic.unity
+  - enabled: 1
     path: Assets/Scenes/Ritual.unity
+  - enabled: 1
+    path: Assets/Scenes/DemonRoom1.unity
+  - enabled: 1
+    path: Assets/Scenes/DemonRoom2.unity
+  - enabled: 1
+    path: Assets/Scenes/endScene.unity
